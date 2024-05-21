@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LanitCTI\\media suite\\FFMpegCoreTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{622B4F52-D160-4404-A91E-2486EF86B843}|FFMpegCoreTests\\FFMpegCoreTests.csproj|d:\\lanitcti\\media suite\\ffmpegcoretests\\ffmpegcoretests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622B4F52-D160-4404-A91E-2486EF86B843}|FFMpegCoreTests\\FFMpegCoreTests.csproj|solutionrelative:ffmpegcoretests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622B4F52-D160-4404-A91E-2486EF86B843}|FFMpegCoreTests\\FFMpegCoreTests.csproj|d:\\lanitcti\\media suite\\ffmpegcoretests\\ffmpegcoretests\\pipesink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622B4F52-D160-4404-A91E-2486EF86B843}|FFMpegCoreTests\\FFMpegCoreTests.csproj|solutionrelative:ffmpegcoretests\\pipesink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622B4F52-D160-4404-A91E-2486EF86B843}|FFMpegCoreTests\\FFMpegCoreTests.csproj|D:\\LanitCTI\\media suite\\FFMpegCoreTests\\ffmpegcoretests\\ffmpegcoretests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{622B4F52-D160-4404-A91E-2486EF86B843}|FFMpegCoreTests\\FFMpegCoreTests.csproj|solutionrelative:ffmpegcoretests\\ffmpegcoretests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PipeSink.cs",
+              "DocumentMoniker": "D:\\LanitCTI\\media suite\\FFMpegCoreTests\\FFMpegCoreTests\\PipeSink.cs",
+              "RelativeDocumentMoniker": "FFMpegCoreTests\\PipeSink.cs",
+              "ToolTip": "D:\\LanitCTI\\media suite\\FFMpegCoreTests\\FFMpegCoreTests\\PipeSink.cs",
+              "RelativeToolTip": "FFMpegCoreTests\\PipeSink.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:04:19.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LanitCTI\\media suite\\FFMpegCoreTests\\FFMpegCoreTests\\Program.cs",
+              "RelativeDocumentMoniker": "FFMpegCoreTests\\Program.cs",
+              "ToolTip": "D:\\LanitCTI\\media suite\\FFMpegCoreTests\\FFMpegCoreTests\\Program.cs",
+              "RelativeToolTip": "FFMpegCoreTests\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAWwCQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:00:23.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FFMpegCoreTests.csproj",
+              "DocumentMoniker": "D:\\LanitCTI\\media suite\\FFMpegCoreTests\\FFMpegCoreTests\\FFMpegCoreTests.csproj",
+              "RelativeDocumentMoniker": "FFMpegCoreTests\\FFMpegCoreTests.csproj",
+              "ToolTip": "D:\\LanitCTI\\media suite\\FFMpegCoreTests\\FFMpegCoreTests\\FFMpegCoreTests.csproj",
+              "RelativeToolTip": "FFMpegCoreTests\\FFMpegCoreTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T19:58:42.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
