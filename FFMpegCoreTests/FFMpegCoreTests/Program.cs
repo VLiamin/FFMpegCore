@@ -16,7 +16,20 @@ namespace FFMpegCoreTests
 
 		public async void Convert()
 		{
-			string FilePath = "audio1.mp3";
+			//await using Stream audioInputStream = await httpClient.GetStreamAsync("https://demo.twilio.com/docs/classic.mp3");
+			await using FileStream audioOutputStreamRead = File.Open("audio2.mp4", FileMode.OpenOrCreate);
+			//await using FileStream audioOutputStream = File.Open("classic.wav", FileMode.OpenOrCreate);
+			MemoryStream memoryStream = new MemoryStream();
+
+			FFMpegArguments
+				.FromPipeInput(new StreamPipeSource(audioOutputStreamRead))
+				.OutputToPipe(new StreamPipeSink(memoryStream), options =>
+					options.ForceFormat("wav"))
+				.ProcessSynchronously();
+
+			var t = memoryStream.ToArray();
+
+/*			string FilePath = "audio1.mp3";
 			string FilePath2 = "audio2.mp4";
 			Stream outputStream = new MemoryStream();
 
@@ -30,11 +43,11 @@ namespace FFMpegCoreTests
 		.WithVideoFilters(filterOptions => filterOptions.Scale(VideoSize.FullHd))
 		.WithFastStart())
 	.ProcessSynchronously();
-			/*			var mysink = new PipeSink();
-						FFMpegArguments.FromFileInput(FilePath)
-							.OutputToPipe(mysink).ProcessSynchronously();*/
-
-			var t = 1;
+			var mysink = new PipeSink();
+			FFMpegArguments.FromFileInput(FilePath)
+				.OutputToPipe(mysink, options =>
+				{
+				}).ProcessSynchronously();*/
 		}
 	}
 }

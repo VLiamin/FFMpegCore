@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LanitCTI\\media suite\\FFMpegCoreTests\\FFMpegCoreTests\\FFMpegCoreTests.csproj": {}
+    "D:\\LanitCTI\\mediaSuite\\FFMpegCore\\FFMpegCoreTests\\FFMpegCoreTests\\FFMpegCoreTests.csproj": {}
   },
   "projects": {
-    "D:\\LanitCTI\\media suite\\FFMpegCoreTests\\FFMpegCoreTests\\FFMpegCoreTests.csproj": {
+    "D:\\LanitCTI\\mediaSuite\\FFMpegCore\\FFMpegCoreTests\\FFMpegCoreTests\\FFMpegCoreTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LanitCTI\\media suite\\FFMpegCoreTests\\FFMpegCoreTests\\FFMpegCoreTests.csproj",
+        "projectUniqueName": "D:\\LanitCTI\\mediaSuite\\FFMpegCore\\FFMpegCoreTests\\FFMpegCoreTests\\FFMpegCoreTests.csproj",
         "projectName": "FFMpegCoreTests",
-        "projectPath": "D:\\LanitCTI\\media suite\\FFMpegCoreTests\\FFMpegCoreTests\\FFMpegCoreTests.csproj",
+        "projectPath": "D:\\LanitCTI\\mediaSuite\\FFMpegCore\\FFMpegCoreTests\\FFMpegCoreTests\\FFMpegCoreTests.csproj",
         "packagesPath": "C:\\Users\\Lyami\\.nuget\\packages\\",
-        "outputPath": "D:\\LanitCTI\\media suite\\FFMpegCoreTests\\FFMpegCoreTests\\obj\\",
+        "outputPath": "D:\\LanitCTI\\mediaSuite\\FFMpegCore\\FFMpegCoreTests\\FFMpegCoreTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lyami\\AppData\\Roaming\\NuGet\\NuGet.Config",

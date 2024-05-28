@@ -19,3 +19,25 @@ D:\LanitCTI\media suite\FFMpegCoreTests\FFMpegCoreTests\obj\Debug\net6.0\refint\
 D:\LanitCTI\media suite\FFMpegCoreTests\FFMpegCoreTests\obj\Debug\net6.0\FFMpegCoreTests.pdb
 D:\LanitCTI\media suite\FFMpegCoreTests\FFMpegCoreTests\obj\Debug\net6.0\FFMpegCoreTests.genruntimeconfig.cache
 D:\LanitCTI\media suite\FFMpegCoreTests\FFMpegCoreTests\obj\Debug\net6.0\ref\FFMpegCoreTests.dll
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\bin\Debug\net6.0\FFMpegCoreTests.exe
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\bin\Debug\net6.0\FFMpegCoreTests.deps.json
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\bin\Debug\net6.0\FFMpegCoreTests.runtimeconfig.json
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\bin\Debug\net6.0\FFMpegCoreTests.dll
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\bin\Debug\net6.0\FFMpegCoreTests.pdb
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\bin\Debug\net6.0\FFMpegCore.dll
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\bin\Debug\net6.0\Instances.dll
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\bin\Debug\net6.0\System.Text.Json.dll
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\obj\Debug\net6.0\FFMpegCoreTests.csproj.AssemblyReference.cache
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\obj\Debug\net6.0\FFMpegCoreTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\obj\Debug\net6.0\FFMpegCoreTests.AssemblyInfoInputs.cache
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\obj\Debug\net6.0\FFMpegCoreTests.AssemblyInfo.cs
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\obj\Debug\net6.0\FFMpegCoreTests.csproj.CoreCompileInputs.cache
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\obj\Debug\net6.0\FFMpegCoreTests.sourcelink.json
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\obj\Debug\net6.0\FFMpegCo.12870B84.Up2Date
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\obj\Debug\net6.0\FFMpegCoreTests.dll
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\obj\Debug\net6.0\refint\FFMpegCoreTests.dll
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\obj\Debug\net6.0\FFMpegCoreTests.pdb
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\obj\Debug\net6.0\FFMpegCoreTests.genruntimeconfig.cache
+D:\LanitCTI\mediaSuite\FFMpegCore\FFMpegCoreTests\FFMpegCoreTests\obj\Debug\net6.0\ref\FFMpegCoreTests.dll

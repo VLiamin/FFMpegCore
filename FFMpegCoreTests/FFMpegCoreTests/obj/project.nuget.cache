@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lGyoI5SdqJJdjDe05iSt84qt4y1BRG2NPuyvhK800iBHr+Kmq3c/QcX5mUEMdbAyUrmIPzjEY3z7xA4W1wiB4g==",
+  "dgSpecHash": "wTd2UiibMc9TeFETju6xEI+dmf7sURUNNjs6kFjqMgULY2AqAVnkSX+wt+VFhJMAmfyueIBxShV5NW13qtoW8g==",
   "success": true,
-  "projectFilePath": "D:\\LanitCTI\\media suite\\FFMpegCoreTests\\FFMpegCoreTests\\FFMpegCoreTests.csproj",
+  "projectFilePath": "D:\\LanitCTI\\mediaSuite\\FFMpegCore\\FFMpegCoreTests\\FFMpegCoreTests\\FFMpegCoreTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lyami\\.nuget\\packages\\ffmpegcore\\5.1.0\\ffmpegcore.5.1.0.nupkg.sha512",
     "C:\\Users\\Lyami\\.nuget\\packages\\instances\\3.0.0\\instances.3.0.0.nupkg.sha512",
